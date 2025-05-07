@@ -29,10 +29,6 @@ YumTum is a mobile restaurant app built with **React Native** and **Expo** that 
 - Node.js and npm/yarn
 - Expo CLI (if not installed: `npm install -g expo-cli`)
 
-### Screenshots
-<img width="382" alt="image" src="https://github.com/user-attachments/assets/4bf7c0de-3c87-4272-9189-9d98731d5f3a" />
-<img width="268" alt="image" src="https://github.com/user-attachments/assets/432e31ac-ad63-400d-ae71-db6ac12a764b" />
-<img width="435" alt="image" src="https://github.com/user-attachments/assets/c47cd6c8-8916-4269-9e91-54864a2057e5" />
 
 
 
