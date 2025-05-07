@@ -1,30 +1,11 @@
-# YumTum 🍽️
+# Sample Snack app
 
-YumTum is a mobile restaurant app built with **React Native** and **Expo** that allows users to browse multicultural food menus, add dishes to a shopping cart, and place orders easily. It is designed to support dynamic updates and ensure a smooth user experience across both Android and iOS platforms.
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-## 📱 Features
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-- 📋 Browse diverse food menus by category (e.g., Romanian, Chinese, Italian, etc.)
-- 🛒 Add/remove dishes to/from a shopping cart
-- ➕ Increase or decrease item quantity
-- ❌ Delete items from the cart
-- 💵 Display cart total
-- 🧾 Fill in customer information for placing an order
-- 🔔 Toast notifications when items are added to the cart
-- 🧭 Navigation using React Navigation (Stack & Tabs)
-- 🌐 Context API for global cart state management
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-## 🛠️ Built With
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-- **React Native** (via [Expo](https://expo.dev/))
-- **JavaScript**
-- **React Navigation**
-- **Context API**
-- **React Native Vector Icons**
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js and npm/yarn
-- Expo CLI (if not installed: `npm install -g expo-cli`)
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
